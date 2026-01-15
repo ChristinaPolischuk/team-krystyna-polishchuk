@@ -2,6 +2,7 @@
   "name": "team-krystyna-polishchuk",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@10.28.0",
   "scripts": {
     "clean-install": "rm -rf .next node_modules pnpm-lock.yaml && pnpm install",
     "predev": "docker-compose up -d",
