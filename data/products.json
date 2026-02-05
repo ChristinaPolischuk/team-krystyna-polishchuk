@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "description": "High-quality noise-canceling wireless headphones with 30-hour battery life.",
+    "price": 199.99,
+    "category": "Electronics",
+    "stock": 45,
+    "image": "/images/headphones.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with tactile blue switches.",
+    "price": 89.50,
+    "category": "Accessories",
+    "stock": 12,
+    "image": "/images/keyboard.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Ergonomic Office Chair",
+    "description": "Adjustable height and lumbar support for long working hours.",
+    "price": 249.00,
+    "category": "Furniture",
+    "stock": 5,
+    "image": "/images/chair.jpg"
+  }
+]
