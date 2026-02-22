@@ -12,7 +12,7 @@
     "id": "2",
     "name": "Mechanical Keyboard",
     "description": "RGB backlit mechanical keyboard with tactile blue switches.",
-    "price": 89.50,
+    "price": 89.5,
     "category": "Accessories",
     "stock": 12,
     "image": "/images/keyboard.jpg"
@@ -21,9 +21,18 @@
     "id": "3",
     "name": "Ergonomic Office Chair",
     "description": "Adjustable height and lumbar support for long working hours.",
-    "price": 249.00,
+    "price": 249,
     "category": "Furniture",
     "stock": 5,
     "image": "/images/chair.jpg"
+  },
+  {
+    "name": "Washmshine",
+    "description": "Washmshine Washmshine Washmshine Washmshine Washmshine",
+    "price": 500,
+    "category": "Home",
+    "stock": 3,
+    "image": "/iamges/washmachine.jpg",
+    "id": "1771797821507"
   }
 ]
